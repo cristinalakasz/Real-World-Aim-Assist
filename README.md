@@ -2,8 +2,7 @@
 
 Object Detection using Haar Cascade Classifier
 
-![](https://github.com/PhilHippo/Ai-lab-object-detection/blob/main/images/test.gif)
-
+![](./README_images/video_example.gif)
 Please find the complete documentation [here](Real_World_Aim_Assist.pdf).
 
 ## Introduction
